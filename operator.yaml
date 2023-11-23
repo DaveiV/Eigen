@@ -1,0 +1,13 @@
+operator:
+    address: 0x5869938B660F20B484d6c8e765c9A7605A5bB360
+    earnings_receiver_address: 0x5869938B660F20B484d6c8e765c9A7605A5bB360
+    delegation_approver_address: 0x5869938B660F20B484d6c8e765c9A7605A5bB360
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://github.com/mangozila/metadata/blob/main/metadata.json"
+el_slasher_address: "0xD11d60b669Ecf7bE10329726043B3ac07B380C22"
+bls_public_key_compendium_address: "0xc81d3963087Fe09316cd1E032457989C7aC91b19"
+eth_rpc_url: https://goerli.blockpi.network/v1/rpc/public
+private_key_store_path: /root/.eigenlayer/operator_keys/ecdsa-test.ecdsa.key.json
+signer_type: local_keystore
+bls_private_key_store_path: /root/.eigenlayer/operator_keys/bls-test.bls.key.json
+chain_id: 5
